@@ -9,7 +9,7 @@ As an MCA student actively exploring AI/ML, I wanted a space that reflects not j
 
 The site is currently hosted on Github repo deployment server.
 
-🔗 [https://shivm44.github.io/my-profile/]
+🔗 [https://shivm44.github.io/profile/]
 
 Open to AI/ML internship opportunities. If you're building something interesting, let's connect!
 
